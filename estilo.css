@@ -1,6 +1,19 @@
 body, html{
-    background-color: bisque;
+    background-color: powderblue;
 }
 div{
     border: 5px solid cornflowerblue;
+}
+image{
+    border: 5px solid orange
+}
+.card{
+    background-color: whitesmoke;
+    width: 250px;
+}
+.card-img{
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-bottom: 20px;
+    margin-right: 15px
 }
