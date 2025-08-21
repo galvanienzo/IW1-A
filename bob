@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Fenda do Biquíni</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Patrick Estrela</h1>
+            <nav>
+                <ul class="menu">
+                    <li class="bob"><a href="#">Bob Esponja</a></li>
+                    <li class="pat"><a href="#">Patrick Estrela</a></li>
+                    <li class="squ"><a href="#">Lula Molusco</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main class="container">
+        <h2>Biografia:</h2>
+        <div class="card-container">
+            <div class="patrick">
+                <img src="assets/patrick.png" alt="Foto de Perfil" class="profile-image">
+            </div>
+                <div class="card">
+                    <h3 class="text-padding">Aparência</h3>
+                    <p class="text-padding">
+                       <b>Patrick</b> é uma estrela-do-mar rosa, com corpo robusto e formato típico da espécie. Ele tem sobrancelhas espessas, olhos grandes e costuma usar apenas um short verde com estampa de flores roxas. Sua aparência simples e meio desleixada combina bem com sua personalidade despreocupada.
+                    </p>
+                </div>
+            <div class="card">
+                <h3 class="text-padding">Personalidade</h3>
+                <p class="text-padding">
+                    <b>Patrick</b> é conhecido por ser extremamente preguiçoso, distraído e ingênuo. Ele costuma ter raciocínios absurdos e confusos, o que gera muitas situações engraçadas. Apesar de não ser nem um pouco inteligente, <b>Patrick</b> tem um coração grande e é um amigo leal. Ele vive no próprio mundo, reage de forma exagerada a coisas simples e tem uma visão bem peculiar da realidade.
+                </p>
+            </div>
+            <div class="card">
+                <h3 class="text-padding">Papel para história</h3>
+                <p class="text-padding">
+                    <b>Patrick</b> é o melhor amigo do Bob Esponja e aparece em praticamente todos os episódios como parceiro nas aventuras (e confusões) do protagonista. Sua função na série é trazer o humor absurdo, com piadas simples, comportamento imprevisível e falas sem sentido. Ele representa aquele tipo de amigo que não entende nada, mas topa tudo. Sem ele, o ritmo do desenho seria bem diferente.
+                </p>
+            </div>
+            <div class="card">
+                <h3 class="text-padding">Espécie na vida real</h3>
+                <p class="text-padding">
+                    Na natureza, <b>Patrick</b> seria uma estrela-do-mar, um animal marinho invertebrado que vive em regiões costeiras e no fundo do oceano. Diferente do personagem, estrelas-do-mar reais não têm cérebro, não falam e nem se comportam como humanos — o que faz do <b>Patrick</b> uma versão completamente caricata e absurda da espécie.
+                </p>
+            </div>
+        </div>
+    </main>
+    <footer class="footer">
+        <p>© 2025 Fenda do Biquíni. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
